@@ -1,38 +1,28 @@
-.App {
-  text-align: center;
+.text {
+  width: 620px;
+  color: #ffffff;
+  position: absolute;
+  font-size: 24px;
+  font-family: 나눔명조;
+  background-color: transparent;
+  border: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.mainText {
+  transform: translateX(-650px) translateY(15px);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.discriptionText {
+  transform: translateX(-650px) translateY(414px);
+  height: 380px;
+  resize: none;
+  overflow: hidden;
+  line-height: 29px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.itemImage {
+  position: absolute;
+  width: 100px;
+  height: auto;
+  transform: translateX(-400px) translateY(200px);
 }
