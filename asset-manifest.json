@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/soulsborneitem/static/css/main.e84cbbfe.chunk.css",
-    "main.js": "/soulsborneitem/static/js/main.77b6fdf4.chunk.js",
-    "main.js.map": "/soulsborneitem/static/js/main.77b6fdf4.chunk.js.map",
+    "main.js": "/soulsborneitem/static/js/main.657a537d.chunk.js",
+    "main.js.map": "/soulsborneitem/static/js/main.657a537d.chunk.js.map",
     "runtime-main.js": "/soulsborneitem/static/js/runtime-main.7c35b6ff.js",
     "runtime-main.js.map": "/soulsborneitem/static/js/runtime-main.7c35b6ff.js.map",
-    "static/js/2.00fc0c78.chunk.js": "/soulsborneitem/static/js/2.00fc0c78.chunk.js",
-    "static/js/2.00fc0c78.chunk.js.map": "/soulsborneitem/static/js/2.00fc0c78.chunk.js.map",
+    "static/js/2.f709cff1.chunk.js": "/soulsborneitem/static/js/2.f709cff1.chunk.js",
+    "static/js/2.f709cff1.chunk.js.map": "/soulsborneitem/static/js/2.f709cff1.chunk.js.map",
     "index.html": "/soulsborneitem/index.html",
-    "precache-manifest.5e2aaa06b608431cd6525564ab9a9e40.js": "/soulsborneitem/precache-manifest.5e2aaa06b608431cd6525564ab9a9e40.js",
+    "precache-manifest.1bf4be262ef4358e622d96f853f5239a.js": "/soulsborneitem/precache-manifest.1bf4be262ef4358e622d96f853f5239a.js",
     "service-worker.js": "/soulsborneitem/service-worker.js",
     "static/css/main.e84cbbfe.chunk.css.map": "/soulsborneitem/static/css/main.e84cbbfe.chunk.css.map",
-    "static/js/2.00fc0c78.chunk.js.LICENSE.txt": "/soulsborneitem/static/js/2.00fc0c78.chunk.js.LICENSE.txt",
+    "static/js/2.f709cff1.chunk.js.LICENSE.txt": "/soulsborneitem/static/js/2.f709cff1.chunk.js.LICENSE.txt",
     "static/media/template.png": "/soulsborneitem/static/media/template.b21a0879.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7c35b6ff.js",
-    "static/js/2.00fc0c78.chunk.js",
+    "static/js/2.f709cff1.chunk.js",
     "static/css/main.e84cbbfe.chunk.css",
-    "static/js/main.77b6fdf4.chunk.js"
+    "static/js/main.657a537d.chunk.js"
   ]
 }
