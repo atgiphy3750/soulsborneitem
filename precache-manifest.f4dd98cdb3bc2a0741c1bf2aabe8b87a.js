@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7d8af2a78f9d608abc1c4defb3f91d8",
+    "revision": "9b89bdfe4b8d49e67241e82ebfa68e33",
     "url": "/soulsborneitem/index.html"
   },
   {
