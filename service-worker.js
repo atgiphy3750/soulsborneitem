@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/soulsborneitem/precache-manifest.dfd292505a997a45a0c480fd7d221d9b.js"
+  "/soulsborneitem/precache-manifest.17d1ad1b08d0c0ac410546096d1f5280.js"
 );
 
 self.addEventListener('message', (event) => {
