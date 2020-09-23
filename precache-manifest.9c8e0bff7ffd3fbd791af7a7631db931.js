@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c6a75a246f2a26c24a8c08b264f7f4d",
+    "revision": "1344223828386a4d3e477ef691270a58",
     "url": "/soulsborneitem/index.html"
   },
   {
-    "revision": "aa4957c304a47f5b9835",
-    "url": "/soulsborneitem/static/css/main.d20abb7b.chunk.css"
+    "revision": "008eb6f5225ce6847f08",
+    "url": "/soulsborneitem/static/css/main.59964c4d.chunk.css"
   },
   {
     "revision": "53a6e70e4bd925d95eb8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soulsborneitem/static/js/2.566b8542.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa4957c304a47f5b9835",
-    "url": "/soulsborneitem/static/js/main.088716e7.chunk.js"
+    "revision": "008eb6f5225ce6847f08",
+    "url": "/soulsborneitem/static/js/main.9241e515.chunk.js"
   },
   {
     "revision": "50310276fc7ab2fff032",
