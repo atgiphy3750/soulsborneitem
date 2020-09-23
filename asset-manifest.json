@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/soulsborneitem/static/css/main.d6437b3a.chunk.css",
+    "main.css": "/soulsborneitem/static/css/main.e84cbbfe.chunk.css",
     "main.js": "/soulsborneitem/static/js/main.77b6fdf4.chunk.js",
     "main.js.map": "/soulsborneitem/static/js/main.77b6fdf4.chunk.js.map",
     "runtime-main.js": "/soulsborneitem/static/js/runtime-main.7c35b6ff.js",
@@ -8,16 +8,16 @@
     "static/js/2.00fc0c78.chunk.js": "/soulsborneitem/static/js/2.00fc0c78.chunk.js",
     "static/js/2.00fc0c78.chunk.js.map": "/soulsborneitem/static/js/2.00fc0c78.chunk.js.map",
     "index.html": "/soulsborneitem/index.html",
-    "precache-manifest.f4dd98cdb3bc2a0741c1bf2aabe8b87a.js": "/soulsborneitem/precache-manifest.f4dd98cdb3bc2a0741c1bf2aabe8b87a.js",
+    "precache-manifest.5e2aaa06b608431cd6525564ab9a9e40.js": "/soulsborneitem/precache-manifest.5e2aaa06b608431cd6525564ab9a9e40.js",
     "service-worker.js": "/soulsborneitem/service-worker.js",
-    "static/css/main.d6437b3a.chunk.css.map": "/soulsborneitem/static/css/main.d6437b3a.chunk.css.map",
+    "static/css/main.e84cbbfe.chunk.css.map": "/soulsborneitem/static/css/main.e84cbbfe.chunk.css.map",
     "static/js/2.00fc0c78.chunk.js.LICENSE.txt": "/soulsborneitem/static/js/2.00fc0c78.chunk.js.LICENSE.txt",
     "static/media/template.png": "/soulsborneitem/static/media/template.b21a0879.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7c35b6ff.js",
     "static/js/2.00fc0c78.chunk.js",
-    "static/css/main.d6437b3a.chunk.css",
+    "static/css/main.e84cbbfe.chunk.css",
     "static/js/main.77b6fdf4.chunk.js"
   ]
 }
