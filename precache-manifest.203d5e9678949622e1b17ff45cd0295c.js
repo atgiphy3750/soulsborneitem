@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa60edc13af6110763bdfd6e9ed5f635",
+    "revision": "5c69ae76b45011b8d71650c981cceba8",
     "url": "/soulsborneitem/index.html"
   },
   {
-    "revision": "f76491611ced6cd12695",
-    "url": "/soulsborneitem/static/css/main.e84cbbfe.chunk.css"
+    "revision": "640b0ac44ac7348cf528",
+    "url": "/soulsborneitem/static/css/main.d20abb7b.chunk.css"
   },
   {
-    "revision": "7fb4ebdacb9481d70bdb",
-    "url": "/soulsborneitem/static/js/2.c0e34a09.chunk.js"
+    "revision": "53a6e70e4bd925d95eb8",
+    "url": "/soulsborneitem/static/js/2.566b8542.chunk.js"
   },
   {
     "revision": "0275e83efc1a2d22fa8a69ce2cd94db6",
-    "url": "/soulsborneitem/static/js/2.c0e34a09.chunk.js.LICENSE.txt"
+    "url": "/soulsborneitem/static/js/2.566b8542.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f76491611ced6cd12695",
-    "url": "/soulsborneitem/static/js/main.a69b80c5.chunk.js"
+    "revision": "640b0ac44ac7348cf528",
+    "url": "/soulsborneitem/static/js/main.125dcd7c.chunk.js"
   },
   {
     "revision": "50310276fc7ab2fff032",
