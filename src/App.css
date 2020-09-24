@@ -1,28 +1,37 @@
 .text {
   width: 620px;
-  color: #ffffff;
+  color: #aaa;
   position: absolute;
-  font-size: 24px;
-  font-family: 나눔명조;
+  font-size: 23px;
+  font-family: "Nanum Myeongjo", serif;
   background-color: transparent;
   border: none;
 }
 
 .mainText {
-  transform: translateX(-650px) translateY(15px);
+  position: absolute;
+  margin-left: -645px;
+  margin-top: 16px;
 }
 
-.discriptionText {
-  transform: translateX(-650px) translateY(414px);
-  height: 380px;
+.discriptionDiv {
+  position: absolute;
+  margin-left: 24px;
+  margin-top: -396px;
   resize: none;
   overflow: hidden;
   line-height: 29px;
+  height: 400px;
 }
 
 .itemImage {
   position: absolute;
-  width: 100px;
+  width: 180px;
   height: auto;
-  transform: translateX(-400px) translateY(200px);
+  cursor: move;
+}
+
+#AppDiv {
+  width: 665px;
+  height: 809px;
 }
