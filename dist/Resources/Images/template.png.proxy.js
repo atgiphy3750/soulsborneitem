@@ -1,1 +1,1 @@
-export default "/dist/Resources/Images/template.png";
+export default "/gh-pages/dist/Resources/Images/template.png";
