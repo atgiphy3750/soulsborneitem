@@ -1,0 +1,1 @@
+export default "/dist/Resources/Images/template.png";

@@ -1,0 +1,37 @@
+.text {
+  width: 620px;
+  color: #aaa;
+  position: absolute;
+  font-size: 23px;
+  font-family: 'Nanum Myeongjo', serif;
+  background-color: transparent;
+  border: none;
+}
+
+.mainText {
+  position: absolute;
+  margin-left: -645px;
+  margin-top: 16px;
+}
+
+.discriptionDiv {
+  position: absolute;
+  margin-left: 24px;
+  margin-top: -396px;
+  resize: none;
+  overflow: hidden;
+  line-height: 29px;
+  height: 400px;
+}
+
+.itemImage {
+  position: absolute;
+  width: 180px;
+  height: auto;
+  cursor: move;
+}
+
+#AppDiv {
+  width: 665px;
+  height: 809px;
+}
