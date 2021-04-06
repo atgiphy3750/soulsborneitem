@@ -1,1 +1,0 @@
-export default "/gh-pages/dist/Resources/Images/template.png";
