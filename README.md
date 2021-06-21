@@ -1,6 +1,6 @@
 # soulsborneitem
 
-https://atgiphy3750.github.io/soulsborneitem/
+https://plastic041.github.io/soulsborneitem/
 
 ## todo
 
